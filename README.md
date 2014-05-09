@@ -8,5 +8,5 @@ The code is implemented in Matlab and the content of each folder is displayed be
 4. Week 5: Neural Networks Learning
 5. Week 6: Regularized Linear Regression and Bias v.s. Variance
 6. Week 7: Support Vector Machine
-7. Week 8: K-means Clustering and Principal Component Analysis
+7. Week 8: *K*-means Clustering and Principal Component Analysis
 8. Week 9: Anomaly Detection and Recommender System
